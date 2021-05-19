@@ -62,7 +62,7 @@
         android:layout_height="wrap_content"
         android:layout_marginBottom="8dp"
         android:backgroundTint="#F1617D"
-        android:text="Go"
+        android:text="Predict"
         app:layout_constraintBottom_toTopOf="@+id/mResultTextView"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"

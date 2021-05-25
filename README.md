@@ -1,7 +1,7 @@
 # SKinMent (Benign and Malign Classification)
 
 ### ScreenShot
-<img src="https://github.com/kazimsayed954/Benign-and-Malign-Classification/blob/main/resources/screen_1.png" width="300px" height="600px">
+<img src="https://github.com/kazimsayed954/Benign-and-Malign-Classification/blob/main/resources/screen_1.png" width="300px" height="600px"> <img src="https://github.com/kazimsayed954/Benign-and-Malign-Classification/blob/main/resources/screen_5.png" width="300px" height="600px">
 
 
  <details>

@@ -1,7 +1,7 @@
 # Benign and Malign Classification
 
  <details>
-<summaryproject management</summary>
+<summary>project management</summary>
  
 # Skinment
 ## Requirements Analysis

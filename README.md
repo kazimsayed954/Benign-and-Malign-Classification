@@ -1,7 +1,7 @@
 # Benign and Malign Classification
 
 ### ScreenShot
-<img src="https://github.com/kazimsayed954/Benign-and-Malign-Classification/blob/main/resources/screen_1.png" width="800px" height="auto">
+<img src="https://github.com/kazimsayed954/Benign-and-Malign-Classification/blob/main/resources/screen_1.png" width="600px" height="650px">
 
 
  <details>

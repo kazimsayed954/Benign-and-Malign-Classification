@@ -1,11 +1,5 @@
 # SKinMent (Benign and Malign Classification)
 
-### ScreenShot
-<img src="https://github.com/kazimsayed954/Benign-and-Malign-Classification/blob/main/resources/screen_1.png" width="300px" height="600px"> <img src="https://github.com/kazimsayed954/Benign-and-Malign-Classification/blob/main/resources/screen_5.png" width="300px" height="600px">
-
-### Components
-<img src="https://github.com/kazimsayed954/Benign-and-Malign-Classification/blob/main/resources/chrome_xuCgi8xY6a.png" width="700px" height="600px">
-
  <details>
 <summary>project management</summary>
  
@@ -56,3 +50,10 @@
 - Performance Tuning        
 - MILESTONE : System Enhancements / Upgrades   
 </details>
+
+### ScreenShot
+<img src="https://github.com/kazimsayed954/Benign-and-Malign-Classification/blob/main/resources/screen_1.png" width="300px" height="600px"> <img src="https://github.com/kazimsayed954/Benign-and-Malign-Classification/blob/main/resources/screen_5.png" width="300px" height="600px">
+
+### Components
+<img src="https://github.com/kazimsayed954/Benign-and-Malign-Classification/blob/main/resources/chrome_xuCgi8xY6a.png" width="700px" height="600px">
+

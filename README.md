@@ -58,6 +58,5 @@
 <img src="https://github.com/kazimsayed954/Benign-and-Malign-Classification/blob/main/resources/chrome_xuCgi8xY6a.png" width="700px" height="600px">
 
 
-<iframe width="420" height="345" src="https://www.youtube.com/embed/tgbNymZ7vqY">
 
 
